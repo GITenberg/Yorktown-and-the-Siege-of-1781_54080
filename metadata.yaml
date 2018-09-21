@@ -1,0 +1,23 @@
+_repo: Yorktown-and-the-Siege-of-1781_54080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hatch, Charles E.
+    gutenberg_agent_id: '34827'
+    url: http://www.gutenberg.org/2009/agents/34827
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Yorktown (Va.) -- History -- Siege, 1781'
+- !lcsh 'Yorktown (Va.) -- Guidebooks'
+- GITenberg
+title: Yorktown and the Siege of 1781
+url: http://www.gutenberg.org/ebooks/54080
